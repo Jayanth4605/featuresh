@@ -1,4 +1,4 @@
-#include<stdio.h>
+e<stdio.h>
 int main()
 {
     int a[10],n,i;
@@ -16,4 +16,4 @@ int main()
     }
     return 0;
 
-    }
+    
